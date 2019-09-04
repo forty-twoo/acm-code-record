@@ -81,6 +81,5 @@ int main(){
 		solve();
 		if(i!=m) cout<<endl;
 	}
-
 	return 0;
 }
