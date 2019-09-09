@@ -1,8 +1,11 @@
-#include<iostream>
-#include<cstdio>
-#include<cstring>
-#include<algorithm>
-#include <algorithm>
+/*
+ * @Don't panic: Allons-y!
+ * @Author: forty-twoo
+ * @LastEditTime: 2019-09-09 14:40:14
+ * @Description: 线段树 区间异或求和
+ * @Source: https://ac.nowcoder.com/acm/contest/275/C
+ */
+#include<bits/stdc++.h>
 #define mst(a,x) memset(a,x,sizeof(a))
 #define debug freopen("data.txt","r",stdin)
 #define INF 0x3f3f3f3f
