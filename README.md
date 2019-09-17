@@ -26,7 +26,6 @@
 - [ ] CF538F
 - [ ] CF276E
 
-# 网络流
-- [ ] BZOJ5251
-- [ ] BZOJ3894
-- [ ] BZOJ5120
+# 图论相关
+## 网络流
+- [ ] [模拟费用流](https://www.cnblogs.com/flashhu/p/10597795.html)
