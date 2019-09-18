@@ -87,6 +87,7 @@ void get_scc(int x,int y){
 
 	}
 }
+
 void calL(int x,int y){
 	queue<Node> Q;
 	Node cur;cur.x=x,cur.y=y;
