@@ -81,6 +81,8 @@ struct Chairman{
 		if(x<=mid)insert(lc[o],lc[pre],l,mid,x);
 		else insert(rc[o],rc[pre],mid+1,r,x);
 	}
+	
+	//我们需要的是tree(1->u)+tree(1,v)-tree(lca(u,v))-tree(fa[lca(u,v)])这段子树的信息
 	int query(int u,int v,int lca,int flca,int l,int r,int k){
 		if(l==r){
 			return l;
