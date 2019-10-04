@@ -1,6 +1,6 @@
 # acm-code-record
 # FLAG
-- [ ] 证明treap启发式合并的时间复杂度
+- [x] 证明treap启发式合并的时间复杂度
 
 # 主席树待补题单
 - [ ] BZOJ4406 (不是主席树)
