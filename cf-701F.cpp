@@ -2,7 +2,7 @@
  * @Don't panic: Allons-y!
  * @Author: forty-twoo
  * @LastEditTime: 2019-10-04 23:18:13
- * @Description: tarjan找桥
+ * @Description: tarjan找桥(无向图边双连通分量)
  * @Source: https://codeforces.com/contest/701/problem/F
  */
 
